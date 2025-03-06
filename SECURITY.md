@@ -7,10 +7,10 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 2.x   | :white_check_mark: |
+| MinecraftRunner 2   | :white_check_mark: |
 | MineRun   | :x:                |
 | Minecraft-Runner   | :white_check_mark: |
-| < MinecraftRunner 3.0 alpha 1| :x:                |
+| MinecraftRunner 3.0 alpha 1| :x:                |
 
 ## Reporting a Vulnerability
 
