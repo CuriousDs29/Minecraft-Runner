@@ -11,7 +11,7 @@ currently being supported with security updates.
 | MineRun   | :x: ended today               |
 | Minecraft-Runner 3.0 alpha 4   | :white_check_mark: going to end next week|
 | MinecraftRunner 3.0 alpha 1| :x:      ended today          |
-|Minecraft-Runner 3.0|  :green_check_mark: going to end next saturday| 
+|Minecraft-Runner 3.0|  ✅: going to end next saturday| 
 ## Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
