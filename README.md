@@ -45,5 +45,22 @@ to really finish the game
 
 version 4.0 will be released this Monday
 
+fixed bug from 3.0 alpha 1
+
+added more weapons 
+
+diamond  is now working
+
+more enemy
+
+more levels
+
+better gameover screen
+
+better win screen
+
+dragon boss at the end before winning
+
+
 Version 5.0 will be released this Tuesday 
 
