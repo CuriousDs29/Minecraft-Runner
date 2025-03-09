@@ -7,9 +7,9 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| MinecraftRunner 2   | :white_check_mark: nearly end of support |
+| MinecraftRunner 2   | :x: ended|
 | MineRun   | :x: ended|
-| Minecraft-Runner 3.0 alpha 4   | :white_check_mark: going to end next week|
+| Minecraft-Runner 3.0 alpha 4   | :x: ended|
 | MinecraftRunner 3.0 alpha 1| :x:      ended|
 |Minecraft-Runner 3.0|  ✅: going to end next saturday| 
 |Minecraft-Runner 3.0 alpha 2, 3 |:x: ended|
