@@ -27,7 +27,7 @@ added more backgrounds
 
 added a new fast title screen image
 
-version 3.0 release date this saturday
+version 3.0 
 
 Version 3.0  removes the MinecraftRUnner name to Minecraft-Runner
 
@@ -43,7 +43,7 @@ more levels like around 10 of them
 
 to really finish the game
 
-version 4.0 will be released this Monday
+version 4.0 
 
 fixed bug from 3.0 alpha 1
 
