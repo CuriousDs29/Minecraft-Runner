@@ -12,7 +12,7 @@ currently being supported with security updates.
 | Minecraft-Runner 3.0 alpha 4   | :x: ended|
 | MinecraftRunner 3.0 alpha 1| :x:      ended|
 |Minecraft-Runner 3.0| :x:ended| 
-|Minecraft-Runner 4.0|  ✅: going to end next Monday| 
+|Minecraft-Runner 4.0|  ✅: going to end WHEN 5.0 is released 
 |Minecraft-Runner 3.0 alpha 2, 3 |:x: ended|
 ## Reporting a Vulnerability
 
