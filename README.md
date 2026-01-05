@@ -74,4 +74,6 @@ fixed levels of eninemes
 the heart system has a total of 50 hearts
 
 version 6.0 will be an app/ game  release 
+6.0 is the last feature release of the game
+7.0 and up will be bugfix release
 
