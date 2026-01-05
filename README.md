@@ -62,5 +62,16 @@ better win screen
 dragon boss at the end before winning
 
 
-Version 5.0 will be released this Tuesday 
+Version 5.0 
+diamond finally working
+
+the heart system added
+
+the game over and win screen bug fixed
+
+fixed levels of eninemes
+
+the heart system has a total of 50 hearts
+
+version 6.0 will be an app/ game  release 
 
