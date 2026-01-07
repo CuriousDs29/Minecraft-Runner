@@ -7,14 +7,18 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| MinecraftRunner 2   | :x: ended|
-| MineRun   | :x: ended|
-| Minecraft-Runner 3.0 alpha 4   | :x: ended|
-| MinecraftRunner 3.0 alpha 1| :x:      ended|
-|Minecraft-Runner 3.0| :x:ended| 
-|Minecraft-Runner 4.0|:x: ended|
-|Minecraft-Runner 3.0 alpha 2, 3 |:x: ended|
+|  MineRun  | :x: ended|
+|MinecraftRunner 2   | :x: ended|
+| Minecraft-Runner 3.0 alpha 1   | :x: ended|
+| MinecraftRunner 3.0 alpha 2,3| :x:      ended|
+|MinecraftRunner 3.0 alpha 4| :x:ended| 
+|Minecraft-Runner 3|:x: ended|
+|Minecraft-Runner 4.0 alphas and full release |:x: ended|
 |Minecraft-Runner 5.0|  ✅:
+|Minecraft-Runner 5.0 Alpha 1 indev 1|:x: ended|
+|Minecraft-Runner 5.0 Alpha 52|  ✅ Ending|
+|Minecraft-Runner 5.0 indev 53|  ✅:
+|Minecraft-Runner indev 6|  ✅:
 ## Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
