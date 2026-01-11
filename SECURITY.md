@@ -15,11 +15,11 @@ currently being supported with security updates.
 |Minecraft-Runner 3|:x: ended|
 |Minecraft-Runner 4.0 alphas and full release |:x: ended|
 |Minecraft-Runner 5.0|  ✅:
-|Minecraft-Runner Old bundle|  ✅:
+|Minecraft-Runner Old bundle|  ✅ Will end after release 8:
 |Minecraft-Runner 5.0 Alpha 1 indev 1|:x: ended|
-|Minecraft-Runner 5.0 Alpha 52|  ✅ Ending|
-|Minecraft-Runner 5.0 indev 53|  ✅:
-|Minecraft-Runner indev 6|  ✅:
+|Minecraft-Runner 5.0 Alpha 52|:x: ended|
+|Minecraft-Runner 5.0 indev 53|  ✅ ending soon:
+|Minecraft-Runner indev 6|  ✅ Will end after release 7:
 ## Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
