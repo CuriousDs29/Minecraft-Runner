@@ -77,6 +77,15 @@ version 6.0 will be an app/ game  release
 
 6.0 is the last feature release of the game
 
-7.0 and up will be bugfix release
+7.0 is the last update to Minecraft-Runner and will be posted in Itch.io
+
+Game costs $10 
+There may be some dlc 
+dlc costs $5 
+full pack $15
+8x version will not exist 
+This github page will now be archived no 
+new releases or bugfixes the lastest is on releases but a pre release
+
 
 
